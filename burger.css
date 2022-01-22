@@ -33,8 +33,12 @@ text-decoration-thickness: 5px;
   #mustard{
     color: #F6B400;
   }
+  #two{
+    color: #F6B400;
+  }
   .content{
     width: 300px;
+
 }
 .content{
   margin: 30px;
@@ -44,7 +48,7 @@ text-decoration-thickness: 5px;
 
 #img1{
 max-width: 100%;
-max-height: 100
+max-height: 100%
 }
 
 .services{background-color: #E1EBE6;
@@ -82,4 +86,90 @@ max-height: 100
   margin-top: 50px;
   padding: 30px;
   }
+
+  #text{
+    text-align: center;
+  }
+
+  .menu{
+    background-color:lightsalmon;
+    width: 1200px;
+    height: 600px;
+    margin:3%;
+  }
+  .Burger1{
+background-color: navajowhite;
+float: left;
+width: 32%;
+border:#ffffff solid 1px;
+margin: 5px;
+padding:5px;
+  }
+  #b1{
+    max-width: 100%;
+  max-height: 100%
+  }
+
+  .Burger2{
+    float: left;
+    width: 32%;
+    background-color: oldlace;
+    border:white solid 1px;
+    margin: 5px;
+    padding:5px;
+  }
+  #b2{
+    max-width: 100%;
+  max-height: 100%
+  }
+  .Burger3{
+    float: left;
+    background-color: lime;
+    width: 32%;
+    border:white solid 1px;
+    margin: 5px;
+    padding:5px;
+  }
+  #b3{
+    max-width: 100%;
+  max-height: 100%;
+  }
+
+  .Burger4{
+    float: left;
+    background-color: mediumseagreen;
+    width: 32%;
+    border:white solid 1px;
+    margin: 5px;
+    padding:5px;
+  }
+  #b4{
+    max-width: 100%;
+  max-height: 100%
+
+  }
+  .Burger5{
+    float: left;
+    background-color: mistyrose;
+    width: 32%;
+    border:white solid 1px;
+    margin: 5px;
+    padding:5px;
+  }
+#b5{
+max-width: 100%;
+  max-height: 100%
+}
+.Burger6{
+  float: left;
+  background-color: rgb(114, 60, 54);
+  width: 32%;
+  border:white solid 1px;
+  margin: 5px;
+  padding:5px;
+}
+#b6{
+max-width: 100%;
+max-height: 100%
+
 
