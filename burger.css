@@ -80,7 +80,7 @@ max-height: 100%
 #meals{
     border: 0.1px solid rgb(99, 26, 13);
     margin: auto;
-  width: 30%;
+  width: 32%;
   height: 280px;
   border-radius: 10px;
   margin-top: 50px;
@@ -92,12 +92,25 @@ max-height: 100%
   }
 
   .menu{
-    background-color:lightsalmon;
-    width: 1200px;
-    height: 600px;
-    margin:3%;
+    background-co;
+    margin:2%;
+    padding-top: 2%;
   }
-  .Burger1{
+  .Burger{
+    background-color: pink;
+    float: left;
+  width: 32%;
+  border: black solid 1px;
+  margin: 5px;
+  padding:5px;
+  border-radius: 25px;
+  }
+  #burg{
+    max-width: 100%;
+    max-height: 100%
+
+  }
+  /* .Burger1{
 background-color: navajowhite;
 float: left;
 width: 32%;
@@ -171,5 +184,4 @@ max-width: 100%;
 #b6{
 max-width: 100%;
 max-height: 100%
-
-
+} */
