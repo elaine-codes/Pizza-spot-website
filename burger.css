@@ -67,6 +67,15 @@ max-height: 100%
   padding: 10px;
   margin-top: 52px;
   padding: 30px;
+  text-align: center;
+}
+.fas{
+  color:  #F6B400;
+  font-size: 60px;
+}
+#strong{
+  color:rgb(99, 26, 13);
+  font-weight: 900;
 }
 
 #deliver{
@@ -108,80 +117,4 @@ max-height: 100%
   #burg{
     max-width: 100%;
     max-height: 100%
-
   }
-  /* .Burger1{
-background-color: navajowhite;
-float: left;
-width: 32%;
-border:#ffffff solid 1px;
-margin: 5px;
-padding:5px;
-  }
-  #b1{
-    max-width: 100%;
-  max-height: 100%
-  }
-
-  .Burger2{
-    float: left;
-    width: 32%;
-    background-color: oldlace;
-    border:white solid 1px;
-    margin: 5px;
-    padding:5px;
-  }
-  #b2{
-    max-width: 100%;
-  max-height: 100%
-  }
-  .Burger3{
-    float: left;
-    background-color: lime;
-    width: 32%;
-    border:white solid 1px;
-    margin: 5px;
-    padding:5px;
-  }
-  #b3{
-    max-width: 100%;
-  max-height: 100%;
-  }
-
-  .Burger4{
-    float: left;
-    background-color: mediumseagreen;
-    width: 32%;
-    border:white solid 1px;
-    margin: 5px;
-    padding:5px;
-  }
-  #b4{
-    max-width: 100%;
-  max-height: 100%
-
-  }
-  .Burger5{
-    float: left;
-    background-color: mistyrose;
-    width: 32%;
-    border:white solid 1px;
-    margin: 5px;
-    padding:5px;
-  }
-#b5{
-max-width: 100%;
-  max-height: 100%
-}
-.Burger6{
-  float: left;
-  background-color: rgb(114, 60, 54);
-  width: 32%;
-  border:white solid 1px;
-  margin: 5px;
-  padding:5px;
-}
-#b6{
-max-width: 100%;
-max-height: 100%
-} */
