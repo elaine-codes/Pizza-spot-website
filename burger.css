@@ -124,12 +124,12 @@ max-height: 100%
     margin:2%;
     padding-top: 2%;
     width: 1200;
-    height: 600px;
+    height: 500px;
   }
   .deck{
-    background-color: paleturquoise;
+    background-color: rgb(118, 0, 78);
     float: left;
-  width: 32%;
+  width: 40%;
   border: black solid 1px;
   margin: 5px;
   padding:5px;
@@ -139,3 +139,25 @@ max-height: 100%
     max-height: 100%;
   }
 
+.apps{
+  background-color:#F6B400;
+  margin:2%;
+    padding-top: 2%;
+    width: 1200;
+    height: 500px;
+}
+.mobile{
+    background-color: #F6B400;
+    float: left;
+  width: 40%;
+  border: black solid 1px;
+  margin: 5px;
+  padding:5
+}
+.footer-sec{
+  background-color:#E1EBE6 ;
+}
+.footer-map{
+ text-align: center;
+ display: flex;
+}
