@@ -1,10 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
+
 body {
   width: 100vw;
+  font-family: "Poppins";
+}
+.headersec {
+  background-image: linear-gradient(140%, white, #f6b400 0%);
 }
 .navbar {
   display: flex;
@@ -132,6 +138,12 @@ a:hover {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+.text {
+  text-decoration: underline;
+  text-decoration-color: #f6b400;
+  text-decoration-thickness: 5px;
+}
+
 .Burger {
   width: 300px;
   border-radius: 25px;
@@ -139,7 +151,14 @@ a:hover {
   box-shadow: 0 3px 10px #00000033;
   padding: 20px;
 }
-
+#cart {
+  background-color: #e1ebe6;
+  padding: 8px 16px;
+  border-radius: 10px;
+  width: fit-content;
+  float: right;
+  margin-top: 18px;
+}
 #burg {
   width: 100%;
 }
@@ -152,20 +171,17 @@ a:hover {
   justify-content: space-between;
 }
 .decker-img {
-  background-color: rgb(118, 0, 78);
   float: left;
   width: 40%;
-  border: black solid 1px;
   margin: 5px;
   padding: 5px;
 }
 .decker-txt {
-  background-color: rosybrown;
   width: 40%;
   float: left;
 }
 #top-txt {
-  padding-bottom: 50px;
+  margin-bottom: 36px;
 }
 #dd1 {
   max-width: 100%;
@@ -185,7 +201,6 @@ a:hover {
 }
 .app-images {
   background-color: #f6b400;
-  border: black solid 1px;
   margin: 5px;
   padding: 5px;
   display: flex;
