@@ -35,7 +35,7 @@ a:hover {
 #mustard {
   color: #f6b400;
 }
-button {
+#button1 {
   background-color: #f6b400;
   color: white;
   margin-top: 60px;
@@ -199,8 +199,24 @@ button {
   background-color: #e1ebe6;
   display: flex;
   justify-content: space-between;
+  padding: 50px 100px;
 }
 .footer-map {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+}
+
+#button2 {
+  background-color: #f6b400;
+  color: white;
+  margin-top: 60px;
+  border: none;
+  padding: 10px;
+}
+#email_input {
+  margin-top: 60px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px 0px 0px 5px;
 }
