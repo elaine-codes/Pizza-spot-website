@@ -10,7 +10,7 @@ body {
   font-family: "Poppins";
 }
 .headersec {
-  background-image: linear-gradient(140%, white, #f6b400 0%);
+  background-image: linear-gradient(140%, white, #f6b400, 0%);
 }
 .navbar {
   display: flex;
