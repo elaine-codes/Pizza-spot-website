@@ -124,35 +124,34 @@ button {
 }
 
 .menu {
-  margin: 2%;
+  margin: 50px 100px;
   padding-top: 2%;
-  /* width: 1200px; */
-  height: 1000px;
+}
+.menu-cont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 .Burger {
-  background-color: pink;
-  float: left;
-  width: 32%;
-  border: black solid 1px;
-  margin: 5px;
-  padding: 5px;
+  width: 300px;
   border-radius: 25px;
+  margin: 30px;
+  box-shadow: 0 3px 10px #00000033;
+  padding: 20px;
 }
+
 #burg {
-  max-width: 100%;
-  max-height: 100%;
+  width: 100%;
 }
 .decker {
   background-color: #e1ebe6;
-  margin: 2%;
-  padding-top: 2%;
-  /* width: 100%; */
+  padding-top: 50px 100px;
   height: 500px;
   align-items: center;
   display: flex;
   justify-content: space-between;
 }
-.deck {
+.decker-img {
   background-color: rgb(118, 0, 78);
   float: left;
   width: 40%;
@@ -160,7 +159,7 @@ button {
   margin: 5px;
   padding: 5px;
 }
-.deck-txt {
+.decker-txt {
   background-color: rosybrown;
   width: 40%;
   float: left;
@@ -173,9 +172,7 @@ button {
 
 .apps {
   background-color: #f6b400;
-  margin: 2%;
-  /* padding-top: 2%;
-    width: 1200; */
+  padding: 50px 100px;
   height: 500px;
   display: flex;
   justify-content: space-between;
@@ -200,8 +197,10 @@ button {
 }
 .footer-sec {
   background-color: #e1ebe6;
+  display: flex;
+  justify-content: space-between;
 }
 .footer-map {
-  text-align: center;
   display: flex;
+  flex-direction: column;
 }
