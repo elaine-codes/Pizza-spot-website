@@ -7,8 +7,9 @@ This project is a Landing page for a restuarant. Basically it's a stand alone we
 Ivy Kabere
 
 ## How to set up 
-Click on live link in about section.
-Enjoy :)
-
+- Have access to a browser
+- Click on live link in about section.
+- Enjoy :)
+ 
 
 
