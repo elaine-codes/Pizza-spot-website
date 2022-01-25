@@ -36,6 +36,16 @@ a:hover {
   text-decoration-color: #f6b400;
   text-decoration-thickness: 5px;
 }
+.burger-text {
+  font-family: cursive;
+  font-style: oblique;
+  font-size: 27px;
+}
+
+.btxt {
+  margin-left: -7px;
+}
+
 #mustard {
   color: #f6b400;
 }
