@@ -238,13 +238,22 @@ a:hover {
   flex-direction: column;
   justify-content: space-between;
 }
-
+.footer-logo {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+  align-items: flex-start;
+}
+.logo-txt {
+  margin-top: 31px;
+}
 #button2 {
   background-color: #f6b400;
   color: white;
   margin-top: 60px;
   border: none;
   padding: 10px;
+  margin-left: -6px;
 }
 #email_input {
   margin-top: 60px;
