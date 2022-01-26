@@ -269,3 +269,10 @@ a:hover {
   border: none;
   border-radius: 5px 0px 0px 5px;
 }
+.footer-icons {
+  display: flex;
+  justify-content: center;
+}
+.fab {
+  margin: 2px;
+}
