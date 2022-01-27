@@ -9,7 +9,9 @@ body {
   width: 100vw;
   font-family: "Poppins";
 }
-
+.headersec {
+  background: linear-gradient(119deg, transparent 50%, #f6b400 50%);
+}
 .navbar {
   display: flex;
   align-items: center;
