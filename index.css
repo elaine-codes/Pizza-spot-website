@@ -226,8 +226,10 @@ a:hover {
   font-size: 28px;
   font-weight: 700;
 }
-.apps {
+.apps-container {
   background-color: #f6b400;
+}
+.apps {
   padding: 50px 100px;
   height: 500px;
   display: flex;
@@ -244,6 +246,16 @@ a:hover {
   font-size: 28px;
   font-weight: 700;
   width: 50%;
+}
+.app-icons {
+  position: relative;
+  bottom: 113px;
+  margin-left: 80px;
+}
+.app-icons img:nth-child(2) {
+  position: relative;
+  bottom: 13px;
+  width: 154px;
 }
 .mobile {
   margin: 10px;
