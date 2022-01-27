@@ -187,18 +187,36 @@ a:hover {
   display: flex;
   justify-content: space-between;
 }
-.decker-img {
-  float: left;
-  width: 40%;
-  margin: 5px;
-  padding: 5px;
+.decker-img1 {
+  width: 450px;
+  position: absolute;
+  z-index: 1;
 }
+#dd1 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.decker-img2 {
+  width: 345px;
+  position: absolute;
+  z-index: 2;
+  margin-bottom: -101px;
+  margin-left: -10px;
+}
+.decker-images {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  margin-right: 450px;
+}
+
 .decker-txt {
   width: 40%;
   float: left;
+  margin-top: -54px;
 }
-#top-txt {
-  margin-bottom: 36px;
+.strong p {
+  margin-bottom: 20px;
 }
 #dd1 {
   max-width: 100%;
@@ -223,7 +241,7 @@ a:hover {
   display: flex;
 }
 .apps-txt {
-  font-size: 35px;
+  font-size: 28px;
   font-weight: 700;
   width: 50%;
 }
